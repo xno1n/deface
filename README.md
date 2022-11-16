@@ -3,7 +3,7 @@
   <a href="https://discord.gg/DcmwAB6NmE">Discord</a> |
   <a href="https://www.youtube.com/channel/UCTwU99osnBuiOKne146IqOg?sub_confirmation=1">YouTube</a> |
   <a href="https://github.com/xno1n">Github</a><br><br>
-  <img src="https://raw.githubusercontent.com/xno1n/xno1n.github.io/main/demo/demo.png" style="width: 80%">
+  <img src="https://user-images.githubusercontent.com/90966219/202051283-db61d2ce-c8aa-43f5-ad98-540ef15a575f.png" style="width: 80%">
 </p>
 
 ##   
